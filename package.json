@@ -1,0 +1,8 @@
+{
+  "name": "standard-version-helper",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "git@github.com:swalahamani/standard-version-helper.git",
+  "author": "Muhammad Swalah A A <social@swalahamani.com>",
+  "license": "MIT"
+}
